@@ -15,7 +15,7 @@ github-repo: "bwstephens/minecraft-series"
 
 This book is about my adventures in a video game named Minecraft.
 
-# About the Authors {-}
+# About the Author {-}
 
 Beckett is an aspiring author and illustrator. Beckett also loves Minecraft, Lego's, and Transformers, as well as making up endless stories while he walks.
 
