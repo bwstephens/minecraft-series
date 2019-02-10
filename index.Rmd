@@ -1,0 +1,24 @@
+--- 
+title: "A Minecraft Series"
+author: "by Beckett"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: krantz
+fontsize: 12pt
+classoption: twoside
+description: "A collection of all my books about Minecraft. "
+favicon: "img/mc-favicon.ico"
+github-repo: "bwstephens/minecraft-series"
+---
+
+# Preface {-}
+
+This book is about my adventures in a video game named Minecraft.
+
+# About the Authors {-}
+
+Beckett is an aspiring author and illustrator. Beckett also loves Minecraft, Lego's, and Transformers, as well as making up endless stories while he walks.
+
+# Acknowledgements {-}
+
+Thanks to my editor, Mom, and my publisher, Dad. Also, thanks to Minecraft community for the inspiration that helped me make this book.
