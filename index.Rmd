@@ -4,8 +4,8 @@ author: "by Beckett"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: krantz
-classoption: booklet, twoside, 12pt
-geometry: left=1.5cm, right=1.5cm, top=1cm, bottom=3cm
+classoption: letterpaper, oneside, 12pt
+geometry: left=4cm, right=4cm, top=3cm, bottom=5cm
 description: "A collection of all my books about Minecraft. "
 favicon: "img/mc-favicon.ico"
 github-repo: "bwstephens/minecraft-series"
