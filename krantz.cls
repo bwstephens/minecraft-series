@@ -22,6 +22,9 @@
 \DeclareOption{b5paper}
    {\setlength\paperheight {250mm}%
     \setlength\paperwidth  {176mm}}
+\DeclareOption{booklet}
+   {\setlength\paperheight {9in}%
+    \setlength\paperwidth  {6in}}
 \DeclareOption{letterpaper}
    {\setlength\paperheight {11in}%
     \setlength\paperwidth  {8.5in}}
